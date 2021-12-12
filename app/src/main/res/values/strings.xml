@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="button1">product lsit</string>
+    <string name="button2">telephone</string>
+    <string name="button3">email</string>
+    <string name="button4">location</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="text1">textName</string>
+    <string name="text2">textCost</string>
+    <string name="text3">textNoti</string>
+</resources>
